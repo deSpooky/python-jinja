@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.profile-photo {
+  width: 150px;
+  height: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
